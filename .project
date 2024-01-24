@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Chap02.Variables</name>
+=======
+	<name>Chap03.Operators</name>
+>>>>>>> branch 'master' of https://github.com/Shu-wep/EzenAcademy.git
 	<comment></comment>
 	<projects>
 	</projects>
