@@ -1,0 +1,5 @@
+#Properties Example
+#Thu Jan 25 11:47:03 KST 2024
+language=korea
+timeout=30
+capacity=10
